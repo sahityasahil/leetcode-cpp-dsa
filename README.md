@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/0069-sqrtx) |
 | [2050-count-good-numbers](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/2050-count-good-numbers) |
 ## Recursion
 |  |
@@ -68,4 +69,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3799-unique-3-digit-even-numbers](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/3799-unique-3-digit-even-numbers) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
