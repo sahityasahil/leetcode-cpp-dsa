@@ -1,23 +1,14 @@
 class Solution {
 public:
-    bool triangleCheck(vector<int>& nums) {
-        if (((nums[0]+nums[1]) > nums[2]) && ((nums[1]+nums[2]) > nums[0]) && ((nums[0]+nums[2]) > nums[1])) {
-            return true;
-        }
-        else return false;
-    }
-    
     string triangleType(vector<int>& nums) {
-        if (triangleCheck(nums)) {
-            if (nums[0] == nums[1] && nums[1] == nums[2]) {
-            return "equilateral";
-            }
+        set<int> s(nums.begin(), nums.end());
+        sort(nums.begin(), nums.end()); // necessary to check the existence of triangle
 
-            else if ((nums[0] == nums[1]) || (nums[1] == nums[2]) || (nums[0] == nums[2])) {
-            return "isosceles";
-            }
-            else return "scalene";
-        }
-        else return "none";
+        if (nums[0] + nums[1] <= nums[2]) return "none";
+
+        // we can check the number of unique elements in set to categorize the triangles
+        if (s.size() == 1) return "equilateral";
+        else if (s.size() == 2) return "isosceles";
+        else return "scalene";
     }
 };
