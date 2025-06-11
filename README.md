@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/0066-plus-one) |
 | [0500-keyboard-row](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/0500-keyboard-row) |
 | [0841-shortest-distance-to-a-character](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/0841-shortest-distance-to-a-character) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [3194-find-words-containing-character](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/3194-find-words-containing-character) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3799-unique-3-digit-even-numbers](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/3799-unique-3-digit-even-numbers) |
