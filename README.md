@@ -6,12 +6,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/0013-roman-to-integer) |
 | [0500-keyboard-row](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/0500-keyboard-row) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3799-unique-3-digit-even-numbers](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/3799-unique-3-digit-even-numbers) |
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/0069-sqrtx) |
 | [2050-count-good-numbers](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/2050-count-good-numbers) |
