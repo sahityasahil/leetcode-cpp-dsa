@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/0500-keyboard-row) |
 | [0841-shortest-distance-to-a-character](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/0841-shortest-distance-to-a-character) |
 | [3194-find-words-containing-character](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/3194-find-words-containing-character) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3799-unique-3-digit-even-numbers](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/3799-unique-3-digit-even-numbers) |
 ## Trie
 |  |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/0232-implement-queue-using-stacks) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Math
 |  |
 | ------- |
@@ -82,4 +84,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+## Sliding Window
+|  |
+| ------- |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 <!---LeetCode Topics End-->
