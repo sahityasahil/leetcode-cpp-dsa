@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3194-find-words-containing-character](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/3194-find-words-containing-character) |
+| [3321-type-of-triangle](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/3321-type-of-triangle) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3799-unique-3-digit-even-numbers](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/3799-unique-3-digit-even-numbers) |
 ## Trie
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/1013-fibonacci-number) |
 | [2050-count-good-numbers](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/2050-count-good-numbers) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/3172-divisible-and-non-divisible-sums-difference) |
+| [3321-type-of-triangle](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/3321-type-of-triangle) |
 ## Recursion
 |  |
 | ------- |
@@ -120,4 +122,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+## Sorting
+|  |
+| ------- |
+| [3321-type-of-triangle](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/3321-type-of-triangle) |
 <!---LeetCode Topics End-->
