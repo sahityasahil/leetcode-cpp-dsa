@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/0014-longest-common-prefix) |
 | [3194-find-words-containing-character](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/3194-find-words-containing-character) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Counting
@@ -20,4 +21,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3194-find-words-containing-character](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/3194-find-words-containing-character) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
