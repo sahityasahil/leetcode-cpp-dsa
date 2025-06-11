@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/0013-roman-to-integer) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0500-keyboard-row](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/0500-keyboard-row) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3799-unique-3-digit-even-numbers](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/3799-unique-3-digit-even-numbers) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/0066-plus-one) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0500-keyboard-row](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/0500-keyboard-row) |
 | [0841-shortest-distance-to-a-character](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/0841-shortest-distance-to-a-character) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/1878-check-if-array-is-sorted-and-rotated) |
