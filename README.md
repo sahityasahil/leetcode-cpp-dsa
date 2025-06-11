@@ -62,10 +62,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/0069-sqrtx) |
+| [1013-fibonacci-number](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/1013-fibonacci-number) |
 | [2050-count-good-numbers](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/2050-count-good-numbers) |
 ## Recursion
 |  |
 | ------- |
+| [1013-fibonacci-number](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/1013-fibonacci-number) |
 | [2050-count-good-numbers](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/2050-count-good-numbers) |
 | [3799-unique-3-digit-even-numbers](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/3799-unique-3-digit-even-numbers) |
 ## Two Pointers
@@ -97,4 +99,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
