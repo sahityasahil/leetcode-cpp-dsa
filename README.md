@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/0069-sqrtx) |
 | [1013-fibonacci-number](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/1013-fibonacci-number) |
 | [2050-count-good-numbers](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/2050-count-good-numbers) |
+| [3172-divisible-and-non-divisible-sums-difference](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 ## Recursion
 |  |
 | ------- |
