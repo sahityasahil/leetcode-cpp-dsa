@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/0020-valid-parentheses) |
+| [0094-binary-tree-inorder-traversal](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/0094-binary-tree-inorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/0232-implement-queue-using-stacks) |
 ## Design
@@ -138,4 +139,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/0237-delete-node-in-a-linked-list) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
