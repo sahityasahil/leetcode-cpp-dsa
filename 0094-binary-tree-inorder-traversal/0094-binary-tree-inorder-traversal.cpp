@@ -19,10 +19,11 @@ public:
 
 private:
     void inOrder(TreeNode* node, vector<int>& res) {
-        if (node == NULL) return;
+        if (node == NULL) return; // base case
 
-        inOrder(node->left, res);
-        res.push_back(node->val);
-        inOrder(node->right, res);
+        // inorder traversal = LNR
+        inOrder(node->left, res); // recursive call for left
+        res.push_back(node->val); // push node value
+        inOrder(node->right, res); // recursive call for right
     }
 };
