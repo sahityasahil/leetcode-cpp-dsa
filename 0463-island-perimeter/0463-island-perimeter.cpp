@@ -1,40 +1,22 @@
 class Solution {
 public:
-    int row, col;
-    
-    int dfs(int r, int c, vector<vector<int>>& grid, vector<vector<bool>>& visited) {
-        // Check if out of bounds or water cell
-        if (r < 0 || r >= row || c < 0 || c >= col || grid[r][c] == 0) {
-            return 1; // Contribute 1 to perimeter for boundary or water
-        }
-        // Skip if already visited
-        if (visited[r][c]) {
+    int dfs(vector<vector<int>>& grid, int row, int col) {
+        if (row < 0 || row >= grid.size() || col < 0 || col >= grid[0].size()) {
             return 0;
         }
-        
-        visited[r][c] = true; // Mark as visited
-        
-        // Sum perimeter contributions from all four directions
-        return (dfs(r + 1, c, grid, visited) +
-                dfs(r - 1, c, grid, visited) +
-                dfs(r, c + 1, grid, visited) +
-                dfs(r, c - 1, grid, visited));
+        return grid[row][col];
     }
-    
     int islandPerimeter(vector<vector<int>>& grid) {
-        row = grid.size();
-        col = grid[0].size();
-        vector<vector<bool>> visited(row, vector<bool>(col, false));
-        
-        // Find the first land cell and start DFS
-        for (int i = 0; i < row; i++) {
-            for (int j = 0; j < col; j++) {
+        // the intuition for this problem is surrounded all the sides =>
+        int perimeter = 0;
+        for (int i = 0; i < grid.size(); i++) {
+            for (int j = 0; j < grid[i].size(); j++) {
                 if (grid[i][j] == 1) {
-                    return dfs(i, j, grid, visited); // Single DFS call for the island
+                    int s = dfs(grid, i + 1, j)+dfs(grid, i - 1, j)+dfs(grid, i, j + 1)+dfs(grid, i, j - 1);
+                    perimeter += 4-s;
                 }
             }
         }
-        
-        return 0; // Should not reach here given problem constraints
+        return perimeter;
     }
 };
