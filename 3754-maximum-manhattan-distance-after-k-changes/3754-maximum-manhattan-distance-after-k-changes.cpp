@@ -1,34 +1,28 @@
 class Solution {
 public:
     int maxDistance(string s, int k) {
-        int ans = 0;
-        int north = 0, south = 0, east = 0, west = 0;
-        for (char it : s) {
-            switch (it) {
+        int vertical = 0, horizontal = 0, ans = 0;
+        int n = s.size();
+        for (int i = 0; i < n; i++) {
+            switch (s[i]) {
                 case 'N':
-                    north++;
+                    vertical++;
                     break;
                 case 'S':
-                    south++;
+                    vertical--;
                     break;
                 case 'E':
-                    east++;
+                    horizontal++;
                     break;
                 case 'W':
-                    west++;
+                    horizontal--;
                     break;
             }
-            int times1 =
-                min({north, south, k});  // modification times for N and S
-            int times2 = min(
-                {east, west, k - times1});  // modification times for E and W
-            ans = max(ans,
-                      count(north, south, times1) + count(east, west, times2));
+            ans = max(ans, min(abs(vertical) + abs(horizontal) + k * 2, i + 1)); // i+1 for the case if k is very huge but we can't iterate more than the string's length so string length will be the ans itself
+            // 2*k because if we change one letter then it will result in addition of 2 unit distance
+            // eg. NS => cancels out => d = 0
+            // but if k=1, we will change S to N or N to S, either of them will return d = 2 (i.e. 2*k) 
         }
         return ans;
     }
-
-    int count(int drt1, int drt2, int times) {
-        return abs(drt1 - drt2) + times * 2;
-    }  // Calculate modified Manhattan distance
 };
