@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [3194-find-words-containing-character](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/3194-find-words-containing-character) |
 | [3321-type-of-triangle](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/3321-type-of-triangle) |
+| [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3799-unique-3-digit-even-numbers](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/3799-unique-3-digit-even-numbers) |
