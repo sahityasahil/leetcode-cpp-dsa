@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0841-shortest-distance-to-a-character](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/0841-shortest-distance-to-a-character) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3194-find-words-containing-character](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/3194-find-words-containing-character) |
+| [3447-clear-digits](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/3447-clear-digits) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Counting
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/0094-binary-tree-inorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/0232-implement-queue-using-stacks) |
+| [3447-clear-digits](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/3447-clear-digits) |
 ## Design
 |  |
 | ------- |
@@ -183,4 +185,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/0463-island-perimeter) |
+## Simulation
+|  |
+| ------- |
+| [3447-clear-digits](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/3447-clear-digits) |
 <!---LeetCode Topics End-->
