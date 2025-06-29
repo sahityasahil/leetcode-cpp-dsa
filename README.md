@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0841-shortest-distance-to-a-character](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/0841-shortest-distance-to-a-character) |
 | [1293-three-consecutive-odds](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/1293-three-consecutive-odds) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/0125-valid-palindrome) |
 | [0349-intersection-of-two-arrays](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/0349-intersection-of-two-arrays) |
 | [0841-shortest-distance-to-a-character](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/0841-shortest-distance-to-a-character) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 ## Enumeration
 |  |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/0069-sqrtx) |
 | [0349-intersection-of-two-arrays](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/0349-intersection-of-two-arrays) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 ## String Matching
 |  |
 | ------- |
@@ -170,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/0414-third-maximum-number) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [3321-type-of-triangle](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/3321-type-of-triangle) |
