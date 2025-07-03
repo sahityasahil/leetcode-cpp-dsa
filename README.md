@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0500-keyboard-row](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/0500-keyboard-row) |
+| [0594-longest-harmonious-subsequence](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/0594-longest-harmonious-subsequence) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/3360-minimum-deletions-to-make-string-k-special) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/0594-longest-harmonious-subsequence) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0463-island-perimeter](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/0463-island-perimeter) |
 | [0500-keyboard-row](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/0500-keyboard-row) |
+| [0594-longest-harmonious-subsequence](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/0594-longest-harmonious-subsequence) |
 | [0841-shortest-distance-to-a-character](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/0841-shortest-distance-to-a-character) |
 | [1293-three-consecutive-odds](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/1293-three-consecutive-odds) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -151,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/0219-contains-duplicate-ii) |
+| [0594-longest-harmonious-subsequence](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/0594-longest-harmonious-subsequence) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Prefix Sum
 |  |
@@ -177,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/0414-third-maximum-number) |
+| [0594-longest-harmonious-subsequence](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/0594-longest-harmonious-subsequence) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
