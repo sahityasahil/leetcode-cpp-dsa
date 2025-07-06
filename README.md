@@ -202,18 +202,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/0100-same-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/0100-same-tree) |
 | [0463-island-perimeter](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/0463-island-perimeter) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/0100-same-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/0100-same-tree) |
 | [0463-island-perimeter](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/0463-island-perimeter) |
 ## Matrix
 |  |
