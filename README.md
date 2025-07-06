@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/0500-keyboard-row) |
 | [0594-longest-harmonious-subsequence](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/0594-longest-harmonious-subsequence) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/3360-minimum-deletions-to-make-string-k-special) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/1927-maximum-ascending-subarray-sum) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/0232-implement-queue-using-stacks) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/1995-finding-pairs-with-a-certain-sum) |
 ## Queue
 |  |
 | ------- |
