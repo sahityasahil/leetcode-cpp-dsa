@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/0112-path-sum) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/0112-path-sum) |
 | [0463-island-perimeter](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/0463-island-perimeter) |
 ## Binary Tree
 |  |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/0112-path-sum) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -233,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/0112-path-sum) |
 | [0463-island-perimeter](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/0463-island-perimeter) |
 ## Matrix
 |  |
