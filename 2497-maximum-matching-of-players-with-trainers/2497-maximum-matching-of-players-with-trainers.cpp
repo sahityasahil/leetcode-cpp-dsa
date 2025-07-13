@@ -3,14 +3,19 @@ public:
     int matchPlayersAndTrainers(vector<int>& players, vector<int>& trainers) {
         sort(players.begin(), players.end());
         sort(trainers.begin(), trainers.end());
-        int m = players.size(), n = trainers.size();
+
         int count = 0;
-        for (int i = 0, j = 0; i < m && j < n; i++, j++) {
-            while (j < n && players[i] > trainers[j]) {
-                j++;
-            }
-            if (j < n) {
+        int i = 0, j = 0; // pointers for players and trainers
+
+        while (i < players.size() && j < trainers.size()) {
+            if (players[i] <= trainers[j]) {
+                // Match found
                 count++;
+                i++;
+                j++;
+            } else {
+                // Try next trainer
+                j++;
             }
         }
         return count;
