@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/0001-two-sum) |
 | [0066-plus-one](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/0066-plus-one) |
+| [0118-pascals-triangle](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/0118-pascals-triangle) |
 | [0217-contains-duplicate](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/0349-intersection-of-two-arrays) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/0118-pascals-triangle) |
 | [1013-fibonacci-number](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
