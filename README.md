@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1293-three-consecutive-odds](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/1293-three-consecutive-odds) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1813-maximum-erasure-value](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/1813-maximum-erasure-value) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/1013-fibonacci-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [2050-count-good-numbers](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/2050-count-good-numbers) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/2704-maximum-difference-by-remapping-a-digit) |
