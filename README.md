@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3797-design-spreadsheet](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/3797-design-spreadsheet) |
 | [3799-unique-3-digit-even-numbers](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/3799-unique-3-digit-even-numbers) |
 ## String
 |  |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3617-find-the-original-typed-string-i](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/3617-find-the-original-typed-string-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3797-design-spreadsheet](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/3797-design-spreadsheet) |
 ## Counting
 |  |
 | ------- |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3797-design-spreadsheet](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/3797-design-spreadsheet) |
 | [3799-unique-3-digit-even-numbers](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/3799-unique-3-digit-even-numbers) |
 ## Trie
 |  |
@@ -116,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/0232-implement-queue-using-stacks) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [3797-design-spreadsheet](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/3797-design-spreadsheet) |
 ## Queue
 |  |
 | ------- |
@@ -273,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/0463-island-perimeter) |
+| [3797-design-spreadsheet](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/3797-design-spreadsheet) |
 ## Simulation
 |  |
 | ------- |
