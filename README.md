@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/0125-valid-palindrome) |
+| [0165-compare-version-numbers](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/0165-compare-version-numbers) |
 | [0500-keyboard-row](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/0500-keyboard-row) |
 | [0841-shortest-distance-to-a-character](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/0841-shortest-distance-to-a-character) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/0125-valid-palindrome) |
+| [0165-compare-version-numbers](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/0165-compare-version-numbers) |
 | [0349-intersection-of-two-arrays](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/0349-intersection-of-two-arrays) |
 | [0841-shortest-distance-to-a-character](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/0841-shortest-distance-to-a-character) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
