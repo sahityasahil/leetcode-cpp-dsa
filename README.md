@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3194-find-words-containing-character](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/3194-find-words-containing-character) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0841-shortest-distance-to-a-character](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/0841-shortest-distance-to-a-character) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/2320-find-all-k-distant-indices-in-an-array) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Enumeration
 |  |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/0069-sqrtx) |
 | [0349-intersection-of-two-arrays](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/0349-intersection-of-two-arrays) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## String Matching
 |  |
 | ------- |
@@ -235,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2887-sort-vowels-in-a-string](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/2887-sort-vowels-in-a-string) |
 | [3321-type-of-triangle](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/3321-type-of-triangle) |
