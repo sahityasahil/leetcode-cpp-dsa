@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/0463-island-perimeter) |
 | [0500-keyboard-row](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/0500-keyboard-row) |
 | [0594-longest-harmonious-subsequence](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/0594-longest-harmonious-subsequence) |
+| [0695-max-area-of-island](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/0695-max-area-of-island) |
 | [0841-shortest-distance-to-a-character](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/0841-shortest-distance-to-a-character) |
 | [1293-three-consecutive-odds](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/1293-three-consecutive-odds) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/0112-path-sum) |
 | [0200-number-of-islands](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/0463-island-perimeter) |
+| [0695-max-area-of-island](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/0695-max-area-of-island) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 ## Binary Tree
 |  |
@@ -293,11 +295,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/0112-path-sum) |
 | [0200-number-of-islands](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/0463-island-perimeter) |
+| [0695-max-area-of-island](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/0695-max-area-of-island) |
 ## Matrix
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/0463-island-perimeter) |
+| [0695-max-area-of-island](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/0695-max-area-of-island) |
 | [3797-design-spreadsheet](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/3797-design-spreadsheet) |
 ## Simulation
 |  |
@@ -317,4 +321,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/0695-max-area-of-island) |
 <!---LeetCode Topics End-->
