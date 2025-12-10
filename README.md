@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0066-plus-one](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/0118-pascals-triangle) |
+| [0130-surrounded-regions](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/0130-surrounded-regions) |
 | [0169-majority-element](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/0217-contains-duplicate) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/0112-path-sum) |
+| [0130-surrounded-regions](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/0695-max-area-of-island) |
@@ -295,12 +297,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/0112-path-sum) |
+| [0130-surrounded-regions](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/0695-max-area-of-island) |
 ## Matrix
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/0695-max-area-of-island) |
@@ -322,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/0695-max-area-of-island) |
 ## Brainteaser
