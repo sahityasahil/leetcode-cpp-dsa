@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3321-type-of-triangle](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/3321-type-of-triangle) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3797-design-spreadsheet](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/3797-design-spreadsheet) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3321-type-of-triangle](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/3321-type-of-triangle) |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3830-find-closest-person](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/3830-find-closest-person) |
@@ -322,4 +324,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/0695-max-area-of-island) |
+## Brainteaser
+|  |
+| ------- |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
+## Combinatorics
+|  |
+| ------- |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 <!---LeetCode Topics End-->
