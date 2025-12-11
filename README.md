@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+| [3531-count-covered-buildings](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/3531-count-covered-buildings) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3321-type-of-triangle](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/3321-type-of-triangle) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3531-count-covered-buildings](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/3531-count-covered-buildings) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2887-sort-vowels-in-a-string](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/2887-sort-vowels-in-a-string) |
 | [3321-type-of-triangle](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/3321-type-of-triangle) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+| [3531-count-covered-buildings](https://github.com/sahityasahil/leetcode-cpp-dsa/tree/master/3531-count-covered-buildings) |
 ## Linked List
 |  |
 | ------- |
